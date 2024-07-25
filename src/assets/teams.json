@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Paper Rex",
+        "tag": "PRX",
+        "slug": "paper-rex",
+        "card": "./src/assets/team_card/paper-rex.png",
+        "color": [217, 0, 221]
+    },
+    {
+        "name": "DRX",
+        "tag": "DRX",
+        "slug": "drx",
+        "card": "./src/assets/team_card/drx.png",
+        "color" : [0, 9, 221]
+    }
+]
