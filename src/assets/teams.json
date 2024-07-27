@@ -1,16 +1,32 @@
-[
-    {
+{
+    "default": {
+        "name": "Default",
+        "tag": "DEF",
+        "slug": "default",
+        "card": "./src/assets/team_card/default.png",
+        "color": [255, 255, 255]
+    },
+    "paper-rex": {
         "name": "Paper Rex",
         "tag": "PRX",
         "slug": "paper-rex",
-        "card": "./src/assets/team_card/paper-rex.png",
+        "card": "./src/assets/team_card/drx.png",
         "color": [217, 0, 221]
     },
+    "drx":
     {
         "name": "DRX",
         "tag": "DRX",
         "slug": "drx",
         "card": "./src/assets/team_card/drx.png",
         "color" : [0, 9, 221]
+    },
+    "gen-g":
+    {
+        "name": "Gen.G",
+        "tag": "GEN",
+        "slug": "gen-g",
+        "card": "./src/assets/team_card/drx.png",
+        "color" : [0, 221, 221]
     }
-]
+}
